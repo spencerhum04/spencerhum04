@@ -6,4 +6,4 @@
   software engineer and student at queen's university
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/spencerhum04/snk/output/github-contribution-grid-snake.svg)
+i like building things :)
