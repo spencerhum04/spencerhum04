@@ -6,4 +6,6 @@
   software engineer and student at queen's university
 </p>
 
-i like building things :)
+<h3 align='center'>
+  i like building things :)
+</h3>
