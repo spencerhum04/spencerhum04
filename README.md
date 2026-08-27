@@ -7,5 +7,5 @@
 </p>
 
 <h3 align='center'>
-  I like building things :)
+  trying to do better
 </h3>
