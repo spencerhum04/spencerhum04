@@ -7,5 +7,5 @@
 </p>
 
 <h3 align='center'>
-  trying to do better
+  YEAHHH
 </h3>
