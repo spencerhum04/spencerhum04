@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  software engineer and student at queen's university
+  peep the website
 </p>
 
 <h3 align='center'>
